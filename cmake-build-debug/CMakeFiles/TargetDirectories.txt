@@ -1,0 +1,3 @@
+C:/Users/Thawan/CLionProjects/word-processor-problem/cmake-build-debug/CMakeFiles/word_processor_problem.dir
+C:/Users/Thawan/CLionProjects/word-processor-problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thawan/CLionProjects/word-processor-problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
